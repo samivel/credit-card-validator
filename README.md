@@ -1,4 +1,4 @@
-#Credit Card Validator
+# Credit Card Validator
 
 This program determines whether or not a provided credit card number is valid according to Luhn’s algorithm.
 
